@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    flex-direction: column;
+    background-image: url("images/arcan-background.jpeg");
+    align-items: center;
+    background-size: cover;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+     font-size: medium;
+    font-weight: 300;
+
+}
+ #love {
+align-items: center;
+
+
+}

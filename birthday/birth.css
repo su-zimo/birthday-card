@@ -1,0 +1,55 @@
+body{
+ text-align: center;
+  font-family: "Happy Monkey";
+  font-weight: 400;
+  font-style: normal;
+  background-image:url("images/arcane.gif") ;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-size: cover;
+ 
+}
+#mean{
+  margin: 0px auto;
+  color: bisque;
+  font-size: medium;
+  font-weight: 600;
+}
+#wishing{
+  background-image: url("images/Purple-giftcover.jpeg");
+  width: 300px;
+  height: 300px;
+  margin: 30px auto;
+  border: solid blueviolet 4px;
+  border-radius: 10px;
+}
+#wishing:hover{
+background-image: url("images/ngbirthday.jpeg");
+width: 300px;
+height: 300px;
+
+}
+.li{
+    display: block;
+    text-align: center;
+    padding: 30px 0;
+    margin: 5px;
+    color: white;
+    background-color: #130e46;
+    font-style: none;
+    font-size: 30px;
+    font-weight: 400px;
+    text-decoration: none;
+    border: #aaa6a6 solid 5px;
+    border-radius: 10px;
+    
+} 
+#chose{
+  margin: 30px auto;
+}
+.li:hover{
+    background-color:lab(24.28% 54.66 -55.13) ;
+    
+}
